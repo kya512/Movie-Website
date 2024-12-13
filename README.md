@@ -1,4 +1,4 @@
-##🎬 Site Web de Films
+#🎬 Site Web de Films
 
 Bienvenue sur le répertoire de mon projet Site Web de Films ! Ce projet vise à créer une plateforme intuitive et esthétique pour explorer, rechercher et découvrir des films.
 
